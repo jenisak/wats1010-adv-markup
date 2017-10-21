@@ -1,1 +1,69 @@
 /* Styles for the Advanced Markup assignment. */
+
+h1 {
+  border-bottom: black 2px solid;
+}
+
+body {
+  background-color: slategray;
+}
+
+nav ul li{
+display: inline  
+}
+
+a.active{ 
+  font-weight: bold;
+}
+#sidebar{
+  width: 250px;
+  float: right;
+  background: lightsalmon;
+  margin: 5px;
+  padding: 15px;  
+}
+
+#sidebar dt{
+  font-weight: bold;
+}
+
+#content{
+  width: 900px;
+  margin: 10px;
+}
+
+p.bio-photo img{
+  width: 150px;
+  height: auto;
+  margin: 10px;
+} 
+
+p.bio-photo {
+  width: 180px;
+  font-size: small;
+  float: left;
+}
+
+ul.poem{
+  text-align: center;
+  line-height: 30px;
+  border: dotted 10px black;
+}
+
+ul.poem li{
+  list-style: none;
+  align-content: center;
+}
+
+h2.selected {
+  margin: 25px 10px 2px 160px;
+  padding: 2px
+}
+
+table#selected_works{
+  border: 2px dashed black;
+}
+
+table#selected_works caption{
+  font-style: italic;
+}
