@@ -17,23 +17,23 @@ In order to complete this assignment, you must fulfill the following requirement
 1. Pay attention to the TODOs in the HTML files. They tell you what enhancements
    you must make.
 2. Add proper HREF values so navigational links allow you to click between all
-   three pages of the site.
+   three pages of the site. DONE
 3. Style navigational lists so those links display horizontally on the page in
-   the header and footer.
+   the header and footer. DONE
 4. Add internal links to the in-text citations (denoted with a numnber in
    brackets like this: ``[1]``) so users can click the links and scroll directly
-   to the citation.
+   to the citation. DONE
 5. Use the ``<sup>`` tag around the in-text citations to make them pop up on
    the line (so they look like footnote indicators).
 6. In the ``about-poe.html`` file, add an accessible HTML table listing the
    Selected Works provided in the ``poe_selected_works.pdf`` file. (Note: This
    is the same information contained in the ``poe_selected_works.csv`` file,
-   which you are also free to use as a resource.)
+   which you are also free to use as a resource.) DONE
 7. In the ``about-poe.html`` file, add a definition list (``<dl>``) to structure
-   the biographical summary in the ``<aside>``.
+   the biographical summary in the ``<aside>``. DONE
 8. In the ``about-poe.html`` page float the image and caption to the left and
    use visual styling to make it apparent that the image and caption go
-   together.
+   together. DONE
 
 Stretch Goals
 -------------
