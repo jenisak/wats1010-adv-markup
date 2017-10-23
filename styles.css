@@ -40,7 +40,7 @@ a:Hover{
   font-weight: bold;
 }
 
-.fa {
+/*.fa {
     padding: 5px;
     font-size: 50px;
     width: 50px;
@@ -60,16 +60,16 @@ a:Hover{
 .fa-pinterest {
   background: #cb2027;
   color: white;
-}
+}*/
 
 #content{
   width: 900px;
   margin: 10px;
 }
 
-aside ul li{
+/*aside ul li{
   display: inline;
-}
+}*/
 
 p.bio-photo img{
   width: 150px;
