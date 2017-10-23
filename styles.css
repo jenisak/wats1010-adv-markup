@@ -23,6 +23,10 @@ a.active{
   font-weight: bold;
 }
 
+a:Hover{
+  background:lightsalmon;
+}
+
 #sidebar{
   width: 250px;
   float: right;
@@ -36,9 +40,35 @@ a.active{
   font-weight: bold;
 }
 
+.fa {
+    padding: 5px;
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
 #content{
   width: 900px;
   margin: 10px;
+}
+
+aside ul li{
+  display: inline;
 }
 
 p.bio-photo img{
